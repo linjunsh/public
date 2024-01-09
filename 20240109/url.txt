@@ -1,0 +1,1 @@
+hswo.satisfaction.sms.url.send:https://www.hacnsms.dev.ali.cloud.cn.hsbc:9044/alert/sendSmsByTemplate
